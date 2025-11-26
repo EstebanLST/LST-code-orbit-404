@@ -147,6 +147,7 @@ Desarrollado por Esteban Gualpa
 🌐 Sitio web: https://loneliness.net.ec
 
 💻 Proyecto Open-Source para la comunidad
+---
 
 📄 Licencia
 
@@ -155,6 +156,7 @@ Puedes usarlo, modificarlo y compartirlo libremente.
 
 Si lo usas en producción, se agradece una mención a:
 LonelinessLST · Code Orbit 404 💙
+---
 
 ⭐ Contribuciones
 
@@ -169,6 +171,7 @@ Agregar más lenguajes
 Mejorar animaciones
 
 Implementar sonido, scroll, zoom o físicas
+---
 
 🚀 ¿Te gustó el proyecto?
 
@@ -176,6 +179,8 @@ Déjale una ⭐ estrella en GitHub
 Compártelo con otros desarrolladores
 Úsalo en tu web profesional
 ¡Y sigue explorando el universo del código! 🌌
+---
+
 
 
 
