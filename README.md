@@ -104,5 +104,39 @@ LST-code-orbit-404/
 ErrorDocument 404 /404.html
 ```
 #### Nginx
+```
 error_page 404 /404.html;
+```
+#### ✅ Opción 2: GitHub Pages
+
+Sube este proyecto a un repositorio.
+
+Ve a Settings → Pages
+
+Selecciona:
+
+Branch: main
+
+Folder: /root
+
+Guarda.
+
+Tu demo quedará así:
+```
+https://TU-USUARIO.github.io/lst-code-orbit-404/
+```
+#### 🔗 Botón “Volver al inicio”
+
+Dentro del archivo 404.html ya puedes configurar tu dominio:
+```
+<a href="/" class="btn btn--primary">Volver al inicio</a>
+```
+#### 🎲 Funcionalidades interactivas
+
+✔ Click en planetas → muestra snippet real
+✔ Botón “Sorpréndeme con un snippet”
+✔ Animaciones flotantes
+✔ Parallax dinámico
+✔ Transiciones suaves
+
 
