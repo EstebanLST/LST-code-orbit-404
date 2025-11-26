@@ -126,10 +126,11 @@ Tu demo quedará así:
 
 Copiar código
 https://TU-USUARIO.github.io/lst-code-orbit-404/
+
 🔗 Botón “Volver al inicio”
 Dentro del archivo 404.html ya puedes configurar tu dominio:
 
-html
+```
 Copiar código
 <a href="/" class="btn btn--primary">Volver al inicio</a>
 🎲 Funcionalidades interactivas
@@ -138,6 +139,7 @@ Copiar código
 ✔ Animaciones flotantes
 ✔ Parallax dinámico
 ✔ Transiciones suaves
+```
 
 🧑‍💻 Autor
 Desarrollado por Esteban Gualpa
@@ -169,4 +171,5 @@ Déjale una ⭐ estrella en GitHub
 Compártelo con otros desarrolladores
 Úsalo en tu web profesional
 ¡Y sigue explorando el universo del código! 🌌
+
 
