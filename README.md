@@ -131,14 +131,17 @@ Dentro del archivo 404.html ya puedes configurar tu dominio:
 ```
 <a href="/" class="btn btn--primary">Volver al inicio</a>
 ```
-#### 🎲 Funcionalidades interactivas
 ---
+#### 🎲 Funcionalidades interactivas
+
 ✔ Click en planetas → muestra snippet real
 ✔ Botón “Sorpréndeme con un snippet”
 ✔ Animaciones flotantes
 ✔ Parallax dinámico
 ✔ Transiciones suaves
+
 ---
+
 
 
 
