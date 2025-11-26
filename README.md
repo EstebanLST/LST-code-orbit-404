@@ -78,6 +78,7 @@ Cada planeta contiene snippets reales de:
 
 ## 📁 Estructura del proyecto
 
+```
 LST-code-orbit-404/
 │
 ├── 404.html       → Página principal de error
@@ -85,6 +86,9 @@ LST-code-orbit-404/
 ├── script.js      → Interacción + snippets
 ├── preview.png    → Imagen de presentación (opcional)
 └── README.md      → Documentación del proyecto
+
+```
+
 🌍 Cómo usar esta 404 en tu sitio web
 ✅ Opción 1: Hosting tradicional (cPanel, VPS, etc.)
 Sube los archivos:
@@ -120,7 +124,6 @@ Guarda.
 
 Tu demo quedará así:
 
-text
 Copiar código
 https://TU-USUARIO.github.io/lst-code-orbit-404/
 🔗 Botón “Volver al inicio”
