@@ -78,7 +78,6 @@ Cada planeta contiene snippets reales de:
 
 ## 📁 Estructura del proyecto
 
-```text
 LST-code-orbit-404/
 │
 ├── 404.html       → Página principal de error
@@ -167,3 +166,4 @@ Déjale una ⭐ estrella en GitHub
 Compártelo con otros desarrolladores
 Úsalo en tu web profesional
 ¡Y sigue explorando el universo del código! 🌌
+
