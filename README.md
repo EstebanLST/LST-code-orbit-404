@@ -1,4 +1,4 @@
-# 🌌 Loneliness · Code Orbit 404
+# 🌌 Loneliness LST · Code Orbit 404
 
 [![Last Commit](https://img.shields.io/github/last-commit/TU-USUARIO/loneliness-code-orbit-404?style=for-the-badge)](#)
 [![CSS](https://img.shields.io/badge/CSS-40.8%25-purple?style=for-the-badge)](#)
@@ -12,7 +12,7 @@
 
 ## ✨ Vista General
 
-**Loneliness · Code Orbit 404** es una página de error **404 profesional**, minimalista y visualmente impactante, donde los lenguajes de programación se representan como **planetas interactivos** dentro de un entorno tipo **universo digital**.
+**LST · Code Orbit 404** es una página de error **404 profesional**, minimalista y visualmente impactante, donde los lenguajes de programación se representan como **planetas interactivos** dentro de un entorno tipo **universo digital**.
 
 Este proyecto está pensado para:
 
@@ -78,32 +78,29 @@ Cada planeta contiene snippets reales de:
 
 ## 📁 Estructura del proyecto
 
-loneliness-code-orbit-404/
+```text
+LST-code-orbit-404/
 │
-├── 404.html → Página principal de error
-├── styles.css → Estilos del universo
-├── script.js → Interacción + snippets
-├── preview.png → Imagen de presentación (opcional)
-└── README.md → Documentación del proyecto
+├── 404.html       → Página principal de error
+├── styles.css     → Estilos del universo
+├── script.js      → Interacción + snippets
+├── preview.png    → Imagen de presentación (opcional)
+└── README.md      → Documentación del proyecto
+🌍 Cómo usar esta 404 en tu sitio web
+✅ Opción 1: Hosting tradicional (cPanel, VPS, etc.)
+Sube los archivos:
 
-yaml
+404.html
+
+styles.css
+
+script.js
+
+Configura tu servidor:
+
+Apache (.htaccess)
+apache
 Copiar código
-
----
-
-## 🌍 Cómo usar esta 404 en tu sitio web
-
-### ✅ Opción 1: Hosting tradicional (cPanel, VPS, etc.)
-
-1. Sube los archivos:
-   - `404.html`
-   - `styles.css`
-   - `script.js`
-
-2. Configura tu servidor:
-
-### Apache (`.htaccess`)
-```apache
 ErrorDocument 404 /404.html
 Nginx
 nginx
@@ -124,28 +121,24 @@ Guarda.
 
 Tu demo quedará así:
 
-arduino
+text
 Copiar código
-https://TU-USUARIO.github.io/loneliness-code-orbit-404/
+https://TU-USUARIO.github.io/lst-code-orbit-404/
 🔗 Botón “Volver al inicio”
 Dentro del archivo 404.html ya puedes configurar tu dominio:
 
 html
 Copiar código
-<a href="https://loneliness.net.ec/" class="btn btn--primary">Volver al inicio</a>
+<a href="/" class="btn btn--primary">Volver al inicio</a>
 🎲 Funcionalidades interactivas
 ✔ Click en planetas → muestra snippet real
-
 ✔ Botón “Sorpréndeme con un snippet”
-
 ✔ Animaciones flotantes
-
 ✔ Parallax dinámico
-
 ✔ Transiciones suaves
 
 🧑‍💻 Autor
-Desarrollado por Loneliness
+Desarrollado por Esteban Gualpa
 🌐 Sitio web: https://loneliness.net.ec
 💻 Proyecto Open-Source para la comunidad
 
@@ -154,7 +147,7 @@ Este proyecto está bajo licencia MIT.
 Puedes usarlo, modificarlo y compartirlo libremente.
 
 Si lo usas en producción, se agradece una mención a:
-Loneliness · Code Orbit 404 💙
+LonelinessLST · Code Orbit 404 💙
 
 ⭐ Contribuciones
 ¡Las contribuciones son bienvenidas!
@@ -174,36 +167,3 @@ Déjale una ⭐ estrella en GitHub
 Compártelo con otros desarrolladores
 Úsalo en tu web profesional
 ¡Y sigue explorando el universo del código! 🌌
-
-yaml
-Copiar código
-
----
-
-## ✅ Lo que esto logra por ti
-
-✔ Se ve **corporativo y de alto nivel**  
-✔ Compatible con **GitHub y LinkedIn**  
-✔ Atrae **desarrolladores de verdad**  
-✔ Da imagen de **empresa tecnológica seria**  
-✔ Perfecto para tu marca **Loneliness**
-
----
-
-## 🚀 Próximo paso si quieres (opcional)
-
-Si me dices:
-- Tu **usuario real de GitHub**
-- Si ya subiste el repo
-
-Te preparo:
-✅ Badges reales con tu repo  
-✅ Texto listo para publicar en **LinkedIn**  
-✅ Descripción corta para portafolio  
-✅ Título pro para tu perfil de GitHub  
-
----
-
-💙 Sebastián, lo que estás construyendo ya no es un simple 404…  
-Esto ya es **una pieza de marca + portafolio profesional real**.  
-Cuando quieras, seguimos llevándolo al siguiente nivel 🔥🚀
