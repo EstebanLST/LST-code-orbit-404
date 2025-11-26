@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Error 404 · Loneliness Code Orbit</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta
+    name="description"
+    content="Plantilla 404 open-source, minimalista e inspirada en el universo, para desarrolladores y proyectos tech."
+  />
+
+  <!-- Fuente profesional -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;900&display=swap"
+    rel="stylesheet"
+  >
+
+  <link rel="stylesheet" href="styles.css" />
+
+  <!-- GSAP para animaciones suaves -->
+  <script
+    defer
+    src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"
+  ></script>
+
+  <!-- Lógica de interacción -->
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <div class="scene">
+    <!-- Capas de fondo -->
+    <div class="scene__gradient"></div>
+    <div class="scene__noise"></div>
+    <div class="scene__stars"></div>
+
+    <!-- Nebulosas -->
+    <div class="blob blob--left"></div>
+    <div class="blob blob--right"></div>
+
+    <!-- Panel principal -->
+    <main class="panel">
+      <header class="panel__header">
+        <span class="panel__tag">LONELINESS · 404 LAB</span>
+      </header>
+
+      <section class="panel__body">
+        <p class="panel__code">404</p>
+        <h1 class="panel__title">La página que buscas no está aquí.</h1>
+        <p class="panel__text">
+          Tal vez el enlace cambió de órbita, o nunca existió. Mientras tanto,
+          puedes explorar este pequeño universo de lenguajes de programación.
+          Haz clic en un planeta y verás un snippet interactivo.
+        </p>
+
+        <div class="panel__actions">
+          <a href="/" class="btn btn--primary">Volver al inicio</a>
+          <button class="btn btn--ghost" id="btn-random">
+            Sorpréndeme con un snippet
+          </button>
+        </div>
+
+        <section class="panel__info" id="tech-info">
+          <p class="panel__info-placeholder">
+            Tip: pasa el mouse por los planetas y haz clic para ver ejemplos de
+            código en HTML, CSS, JavaScript, PHP, Python, Git, Ruby y Java.
+          </p>
+        </section>
+      </section>
+
+      <footer class="panel__footer">
+        <span>Code Orbit 404 · Loneliness</span>
+        <span class="panel__footer-dot">·</span>
+        <span>Open-source · HTML · CSS · JavaScript · GSAP</span>
+      </footer>
+    </main>
+
+    <!-- Planetas / orbes de tecnologías -->
+    <button class="tech tech--html" data-tech="html">
+      <span class="tech__symbol">&lt;/&gt;</span>
+      <span class="tech__label">HTML</span>
+    </button>
+
+    <button class="tech tech--css" data-tech="css">
+      <span class="tech__symbol">#</span>
+      <span class="tech__label">CSS</span>
+    </button>
+
+    <button class="tech tech--js" data-tech="js">
+      <span class="tech__symbol">JS</span>
+      <span class="tech__label">JavaScript</span>
+    </button>
+
+    <button class="tech tech--php" data-tech="php">
+      <span class="tech__symbol">PHP</span>
+      <span class="tech__label">Backend</span>
+    </button>
+
+    <button class="tech tech--python" data-tech="python">
+      <span class="tech__symbol">Py</span>
+      <span class="tech__label">Python</span>
+    </button>
+
+    <button class="tech tech--git" data-tech="git">
+      <span class="tech__symbol">Git</span>
+      <span class="tech__label">Version</span>
+    </button>
+
+    <button class="tech tech--ruby" data-tech="ruby">
+      <span class="tech__symbol">Rb</span>
+      <span class="tech__label">Ruby</span>
+    </button>
+
+    <button class="tech tech--java" data-tech="java">
+      <span class="tech__symbol">J</span>
+      <span class="tech__label">Java</span>
+    </button>
+  </div>
+</body>
+</html>
