@@ -102,68 +102,7 @@ LST-code-orbit-404/
 #### Apache (`.htaccess`)
 ```apache
 ErrorDocument 404 /404.html
-Nginx
-nginx
-Copiar código
+```
+#### Nginx
 error_page 404 /404.html;
-✅ Opción 2: GitHub Pages
-Sube este proyecto a un repositorio.
 
-Ve a Settings → Pages
-
-Selecciona:
-
-Branch: main
-
-Folder: /root
-
-Guarda.
-
-Tu demo quedará así:
-
-text
-Copiar código
-https://TU-USUARIO.github.io/lst-code-orbit-404/
-🔗 Botón “Volver al inicio”
-Dentro del archivo 404.html ya puedes configurar tu dominio:
-
-html
-Copiar código
-<a href="https://loneliness.net.ec/" class="btn btn--primary">Volver al inicio</a>
-🎲 Funcionalidades interactivas
-✔ Click en planetas → muestra snippet real
-✔ Botón “Sorpréndeme con un snippet”
-✔ Animaciones flotantes
-✔ Parallax dinámico
-✔ Transiciones suaves
-
-🧑‍💻 Autor
-Desarrollado por Esteban Gualpa
-🌐 Sitio web: https://loneliness.net.ec
-💻 Proyecto Open-Source para la comunidad
-
-📄 Licencia
-Este proyecto está bajo licencia MIT.
-Puedes usarlo, modificarlo y compartirlo libremente.
-
-Si lo usas en producción, se agradece una mención a:
-LonelinessLST · Code Orbit 404 💙
-
-⭐ Contribuciones
-¡Las contribuciones son bienvenidas!
-
-Puedes:
-
-Añadir más planetas
-
-Agregar más lenguajes
-
-Mejorar animaciones
-
-Implementar sonido, scroll, zoom o físicas
-
-🚀 ¿Te gustó el proyecto?
-Déjale una ⭐ estrella en GitHub
-Compártelo con otros desarrolladores
-Úsalo en tu web profesional
-¡Y sigue explorando el universo del código! 🌌
