@@ -88,22 +88,19 @@ LST-code-orbit-404/
 └── README.md      → Documentación del proyecto
 
 ```
+## 🌍 Cómo usar esta 404 en tu sitio web
 
-🌍 Cómo usar esta 404 en tu sitio web
-✅ Opción 1: Hosting tradicional (cPanel, VPS, etc.)
-Sube los archivos:
+### ✅ Opción 1: Hosting tradicional (cPanel, VPS, etc.)
 
-404.html
+1. Sube los archivos:
+   - `404.html`
+   - `styles.css`
+   - `script.js`
 
-styles.css
+2. Configura tu servidor:
 
-script.js
-
-Configura tu servidor:
-
-Apache (.htaccess)
-apache
-Copiar código
+#### Apache (`.htaccess`)
+```apache
 ErrorDocument 404 /404.html
 Nginx
 nginx
@@ -124,22 +121,21 @@ Guarda.
 
 Tu demo quedará así:
 
+text
 Copiar código
 https://TU-USUARIO.github.io/lst-code-orbit-404/
-
 🔗 Botón “Volver al inicio”
 Dentro del archivo 404.html ya puedes configurar tu dominio:
 
-```
+html
 Copiar código
-<a href="/" class="btn btn--primary">Volver al inicio</a>
+<a href="https://loneliness.net.ec/" class="btn btn--primary">Volver al inicio</a>
 🎲 Funcionalidades interactivas
 ✔ Click en planetas → muestra snippet real
 ✔ Botón “Sorpréndeme con un snippet”
 ✔ Animaciones flotantes
 ✔ Parallax dinámico
 ✔ Transiciones suaves
-```
 
 🧑‍💻 Autor
 Desarrollado por Esteban Gualpa
@@ -171,5 +167,3 @@ Déjale una ⭐ estrella en GitHub
 Compártelo con otros desarrolladores
 Úsalo en tu web profesional
 ¡Y sigue explorando el universo del código! 🌌
-
-
