@@ -132,57 +132,54 @@ Dentro del archivo 404.html ya puedes configurar tu dominio:
 <a href="/" class="btn btn--primary">Volver al inicio</a>
 ```
 ---
-#### 🎲 Funcionalidades interactivas
 
-✔ Click en planetas → muestra snippet real
-✔ Botón “Sorpréndeme con un snippet”
-✔ Animaciones flotantes
-✔ Parallax dinámico
-✔ Transiciones suaves
+## 🎮 Funcionalidades interactivas
+
+✅ Click en planetas → muestra snippet real  
+✅ Botón “Sorpréndeme con un snippet”  
+✅ Animaciones flotantes  
+✅ Parallax dinámico  
+✅ Transiciones suaves  
 
 ---
-🧑‍💻 Autor
 
-Desarrollado por Esteban Gualpa
-🌐 Sitio web: https://loneliness.net.ec
+## 🧑‍💻 Autor
 
-💻 Proyecto Open-Source para la comunidad
+Desarrollado por **Esteban Gualpa**  
+🌐 Sitio web: https://loneliness.net.ec  
+
 ---
 
-📄 Licencia
+## 💻 Proyecto Open-Source para la comunidad
 
-Este proyecto está bajo licencia MIT.
+---
+
+## 📄 Licencia
+
+Este proyecto está bajo licencia **MIT**.  
 Puedes usarlo, modificarlo y compartirlo libremente.
 
-Si lo usas en producción, se agradece una mención a:
-LonelinessLST · Code Orbit 404 💙
+> Si lo usas en producción, se agradece una mención a:  
+> **LonelinessLST · Code Orbit 404 💙**
+
 ---
 
-⭐ Contribuciones
+## ⭐ Contribuciones
 
 ¡Las contribuciones son bienvenidas!
 
 Puedes:
 
-Añadir más planetas
+- Añadir más planetas  
+- Agregar más lenguajes  
+- Mejorar animaciones  
+- Implementar sonido, scroll, zoom o físicas  
 
-Agregar más lenguajes
-
-Mejorar animaciones
-
-Implementar sonido, scroll, zoom o físicas
 ---
 
-🚀 ¿Te gustó el proyecto?
+## 🚀 ¿Te gustó el proyecto?
 
-Déjale una ⭐ estrella en GitHub
-Compártelo con otros desarrolladores
-Úsalo en tu web profesional
+Déjale una ⭐ estrella en GitHub  
+Compártelo con otros desarrolladores  
+Úsalo en tu web profesional  
 ¡Y sigue explorando el universo del código! 🌌
----
-
-
-
-
-
-
