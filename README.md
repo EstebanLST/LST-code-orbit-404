@@ -84,7 +84,6 @@ LST-code-orbit-404/
 ├── 404.html       → Página principal de error
 ├── styles.css     → Estilos del universo
 ├── script.js      → Interacción + snippets
-├── preview.png    → Imagen de presentación (opcional)
 └── README.md      → Documentación del proyecto
 
 ```
@@ -183,3 +182,4 @@ Déjale una ⭐ estrella en GitHub
 Compártelo con otros desarrolladores  
 Úsalo en tu web profesional  
 ¡Y sigue explorando el universo del código! 🌌
+
